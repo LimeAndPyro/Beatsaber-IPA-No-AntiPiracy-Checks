@@ -12,4 +12,5 @@ Enjoy!
 
 # Tutorial Gif
 
+![Tutorial](https://i.imgur.com/EzmUdc5.gif)
 
