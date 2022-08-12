@@ -9,3 +9,7 @@ Drag And Drop this in your beatsaber/ipa/data/managed Folder And replace the exi
 PLEASE SUPPORT THE DEVELOPERS IF YOU ENJOY THE GAME!!!!!!!!!!
 
 Enjoy!
+
+# Tutorial 
+
+
