@@ -1,6 +1,6 @@
 # Beatsaber-IPA-No-AntiPiracy-Checks
 
-Removes Anti Piracy Checks For Modloaders Allowing The Use Pirated Beatsaber Copies
+Removes Anti Piracy Checks For Modloaders Allowing The Use Of Pirated Beatsaber Copies
 
 Install your beatsaber modloader of your choice and then install IPA.
 
