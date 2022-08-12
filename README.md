@@ -10,6 +10,6 @@ PLEASE SUPPORT THE DEVELOPERS IF YOU ENJOY THE GAME!!!!!!!!!!
 
 Enjoy!
 
-# Tutorial 
+# Tutorial Gif
 
 
